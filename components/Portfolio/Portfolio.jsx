@@ -8,13 +8,9 @@ function Portfolio() {
             <div className="row">
               <div className="site-heading text-center">
                 <div className="col-md-8 col-md-offset-2">
-                  <h2>Work History</h2>
+                  <h2>Nuestros Trabajos</h2>
                   <p>
-                    Able an hope of body. Any nay shyness article matters own
-                    removal nothing his forming. Gay own additions education
-                    satisfied the perpetual. If he cause manor happy. Without
-                    farther she exposed saw man led. Along on happy could cease
-                    green oh.
+                    Aquí puedes acceder a algunos de los trabajos de pocería que hemos realizado. 
                   </p>
                 </div>
               </div>
@@ -23,7 +19,7 @@ function Portfolio() {
           <div className="portfolio-items-area">
             <div className="row">
               <div className="col-md-12 portfolio-content">
-                <div className="mix-item-menu active-theme text-center">
+                {/* <div className="mix-item-menu active-theme text-center">
                   <button className="active" data-filter="*">
                     All
                   </button>
@@ -32,7 +28,7 @@ function Portfolio() {
                   <button data-filter=".photography">Photography</button>
                   <button data-filter=".branding">branding</button>
                   <button data-filter=".video">video</button>
-                </div>
+                </div> */}
                 {/* End Mixitup Nav*/}
                 <div className="row less-margin magnific-mix-gallery">
                   <div

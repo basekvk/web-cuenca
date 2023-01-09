@@ -1,5 +1,5 @@
 function HeaderTop() {
-  const mail = "info@grupalsl.es"
+  
     return (
       <>
         {/* Start Header Top 
@@ -19,7 +19,7 @@ function HeaderTop() {
                     <li>
                       <a href="#">
                         <i className="fas fa-envelope-open" />
-                        {mail.toLowerCase()}
+                        <span>info@grupalsl.es</span>
                       </a>
                     </li>
                     <li>
@@ -45,7 +45,6 @@ function HeaderTop() {
                         <i className="fab fa-instagram" />
                       </a>
                     </li>
-                   
                   </ul>
                 </div>
               </div>

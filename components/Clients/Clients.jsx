@@ -7,18 +7,11 @@ function Clients() {
           <div className="container">
             <div className="row">
               <div className="col-md-6 info">
-                <h2>Our Clients</h2>
+                <h2>Nuestros Clientes</h2>
                 <p>
-                  Yourself required no at thoughts delicate landlord it be.
-                  Branched dashwood do is whatever it. Farther be chapter at
-                  visited married in it pressed. By distrusts procuring be oh
+                  Durante más de 25 años llevamos ofreciendo los mejores servicios de pocería.
                 </p>
-                <blockquote>
-                  frankness existence believing instantly if. Doubtful on an
-                  juvenile as of servants insisted. Judge why maids led sir
-                  whose guest drift her point. Him comparison especially
-                  friendship was
-                </blockquote>
+               
                 <p>
                   who sufficient attachment favourable how. Luckily but minutes
                   ask picture man perhaps are inhabit. How her good all sang
@@ -28,7 +21,7 @@ function Clients() {
                   favour
                 </p>
                 <a className="btn btn-dark effect btn-sm" href="#">
-                  Request a quote
+                  Solicitar un presupuesto
                 </a>
               </div>
               <div className="col-md-6 clients">

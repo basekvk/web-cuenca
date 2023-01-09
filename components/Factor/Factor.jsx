@@ -15,28 +15,28 @@ function Factor() {
             <div className="fun-fact">
               <i className="fa fa-user" />
               <div className="timer" data-to={230} data-speed={5000} />
-              <span className="medium">Clients Services</span>
+              <span className="medium">OBRAS DE POCERÍA</span>
             </div>
           </div>
           <div className="col-md-3 col-sm-6 item">
             <div className="fun-fact">
               <i className="fa fa-cogs" />
               <div className="timer" data-to={89} data-speed={5000} />
-              <span className="medium">Machinery</span>
+              <span className="medium">CONSTRUCCIÓN DE ZANJAS</span>
             </div>
           </div>
           <div className="col-md-3 col-sm-6 item">
             <div className="fun-fact">
               <i className="fa fa-graduation-cap" />
               <div className="timer" data-to={50} data-speed={5000} />
-              <span className="medium">Qualified Staff</span>
+              <span className="medium">INSPECCIÓN DE TUBERÍAS</span>
             </div>
           </div>
           <div className="col-md-3 col-sm-6 item">
             <div className="fun-fact">
               <i className="fa fa-clone" />
               <div className="timer" data-to={2348} data-speed={5000} />
-              <span className="medium">Project Done</span>
+              <span className="medium">POZOS, ARQUETAS, ALCANTARILLADO...</span>
             </div>
           </div>
         </div>

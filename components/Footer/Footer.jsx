@@ -11,11 +11,7 @@ function Footer() {
                   <div className="f-item">
                     <h4>Sobre Nosotros</h4>
                     <p>
-                      Excellence decisively nay man yet impression for
-                      contrasted remarkably. There spoke happy for you are out.
-                      Fertile how old address did showing because sitting
-                      replied six. Had arose guest visit going off child she
-                      new.
+                      Empresa de poceros con más de 25 años de experiencia.Ofrecemos los mejores precios con las mejores calidades en todos nuestros servicios.Llámanos sin compromiso y compruébalo.
                     </p>
                     <div className="address">
                       <ul>
@@ -49,17 +45,12 @@ function Footer() {
                         <a href="#">Inspecciones con Cámara</a>
                       </li>
                       <li>
-                        <a href="#">Laminate Flooring</a>
+                        <a href="#">Poceros en Cuenca</a>
                       </li>
                       <li>
-                        <a href="#">House Renovation</a>
+                        <a href="#">Inspecciones en Cuenca</a>
                       </li>
-                      <li>
-                        <a href="#">Printing And Cutting</a>
-                      </li>
-                      <li>
-                        <a href="#">Packaging</a>
-                      </li>
+                     
                     </ul>
                   </div>
                 </div>
@@ -67,13 +58,12 @@ function Footer() {
                   <div className="f-item business-hours">
                     <h4>Horario</h4>
                     <p>
-                      Difficulty on insensible reasonable in. From as went he
-                      they. Preference themselves me as thoroughly partiality
-                      considered on in estimating
+                     Atendemos 24 horas tus urgencias.<br/>
+                     Llámanos sin compromiso.
                     </p>
                     <ul>
                       <li>
-                        Oficina: Lunes-Viernes <span>9am a 5pm</span>
+                        Oficina: Lunes-Viernes <span>9h. a 17h.</span>
                       </li>
                       <li>
                         Urgencias: <span>24 horas</span>

@@ -13,8 +13,8 @@ function ChoseUp() {
               <div className="col-md-6 info">
                 <div className="content">
                   <h2>
-                    We Offer <br />
-                    Best Construction Services &amp; Solutions
+                    Nuestros Servicios <br />
+                    Ofrecemos las mejores soluciones
                   </h2>
                   <div className="row item-area">
                     <div className="item equal-height col-md-6">
@@ -22,7 +22,7 @@ function ChoseUp() {
                         <i className="flaticon-skyline-2" />
                       </div>
                       <div className="info">
-                        <h4>Construction</h4>
+                        <h4>Obras de Pocería</h4>
                         <p>
                           Contented attending smallness it oh ye unwilling.
                           Turned favour man two but lovers. Suffer should
@@ -34,7 +34,7 @@ function ChoseUp() {
                         <i className="flaticon-maintenance" />
                       </div>
                       <div className="info">
-                        <h4>Renovation</h4>
+                        <h4>Inspección con Cámara</h4>
                         <p>
                           Contented attending smallness it oh ye unwilling.
                           Turned favour man two but lovers. Suffer should
@@ -46,7 +46,7 @@ function ChoseUp() {
                         <i className="flaticon-home" />
                       </div>
                       <div className="info">
-                        <h4>Home Maintenance</h4>
+                        <h4>Construcción Zanjas</h4>
                         <p>
                           Contented attending smallness it oh ye unwilling.
                           Turned favour man two but lovers. Suffer should
@@ -58,7 +58,7 @@ function ChoseUp() {
                         <i className="flaticon-house-sketch" />
                       </div>
                       <div className="info">
-                        <h4>Architecture</h4>
+                        <h4>Instalación de Tuberías</h4>
                         <p>
                           Contented attending smallness it oh ye unwilling.
                           Turned favour man two but lovers. Suffer should

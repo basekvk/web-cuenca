@@ -1,3 +1,4 @@
+'use client'
 function Slides() {
     return (
       <>
@@ -24,10 +25,10 @@ function Slides() {
                         <div className="col-md-8 col-md-offset-2">
                           <div className="content">
                             <h3 data-animation="animated slideInDown">
-                              We are the
+                              GRUPAL SL
                             </h3>
                             <h1 data-animation="animated slideInLeft">
-                              Best Choice for you
+                              LOS MEJORES PRECIOS POCERÍA
                             </h1>
                             <p data-animation="animated slideInUp">
                               Lorem ipsum dolor sit amet, consectetur
@@ -40,14 +41,14 @@ function Slides() {
                               className="btn btn-light border effect btn-sm"
                               href="#"
                             >
-                              Learn more
+                              LLAMAR
                             </a>
                             <a
                               data-animation="animated slideInUp"
                               className="btn btn-theme effect btn-sm"
                               href="#"
                             >
-                              Learn more
+                              SABER MÁS
                             </a>
                           </div>
                         </div>
@@ -68,30 +69,27 @@ function Slides() {
                         <div className="col-md-8 col-md-offset-2">
                           <div className="content">
                             <h3 data-animation="animated slideInDown">
-                              We are the
+                              GRUPAL SL
                             </h3>
                             <h1 data-animation="animated slideInLeft">
-                              Best Choice for you
+                              POCEROS EN CUENCA
                             </h1>
                             <p data-animation="animated slideInUp">
-                              Lorem ipsum dolor sit amet, consectetur
-                              adipisicing elit. Distinctio nobis aliquid sed id
-                              saepe. Quasi totam, dolorem repellendus
-                              cupiditate! Quos eaque, voluptas doloribus
+                              Ofrecemos los mejores precios en la provincia de Cuenca, para obras de pocería, inspecciones con cámara, construcción de pozos, excavaciones....Pregunta sin compromiso y obtén tu presupuesto.
                             </p>
                             <a
                               data-animation="animated slideInUp"
                               className="btn btn-light border effect btn-sm"
                               href="#"
                             >
-                              Learn more
+                             Llamar
                             </a>
                             <a
                               data-animation="animated slideInUp"
                               className="btn btn-theme effect btn-sm"
                               href="#"
                             >
-                              Learn more
+                              Saber Más
                             </a>
                           </div>
                         </div>
@@ -112,10 +110,10 @@ function Slides() {
                         <div className="col-md-8 col-md-offset-2">
                           <div className="content">
                             <h3 data-animation="animated slideInDown">
-                              We are the
+                              GRUPAL SL
                             </h3>
                             <h1 data-animation="animated slideInLeft">
-                              Best Choice for you
+                              OBRAS DE POCERÍA CUENCA
                             </h1>
                             <p data-animation="animated slideInUp">
                               Lorem ipsum dolor sit amet, consectetur
@@ -128,14 +126,14 @@ function Slides() {
                               className="btn btn-light border effect btn-sm"
                               href="#"
                             >
-                              Learn more
+                              LLAMAR
                             </a>
                             <a
                               data-animation="animated slideInUp"
                               className="btn btn-theme effect btn-sm"
                               href="#"
                             >
-                              Learn more
+                              SABER MÁS
                             </a>
                           </div>
                         </div>

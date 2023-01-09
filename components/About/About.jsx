@@ -16,24 +16,16 @@ function SlidesRL() {
               </div>
               <div className="col-md-6 info">
                 <div className="content">
-                  <h3>Welcome to Ottrali</h3>
-                  <h2>A construction company</h2>
+                  <h3>Quiénes Somos</h3>
+                  <h2>Poceros en Cuenca</h2>
                   <p>
-                    Extremity sweetness difficult behaviour he of. On disposal
-                    of as landlord horrible. Afraid at highly months do things
-                    on at. Situation recommend objection do intention so
-                    questions. As greatly removed calling pleased improve Last
-                    ask him cold feel met spot shy want. Children me laughing we
-                    prospect answered followed. At it went is songface. Do
-                    greatest at in learning steepest. As greatly removed calling
-                    pleased improve Last ask calling pleased improve Last ask
-                    calling pleased improve Last ask
+                    Ofrecemos los mejores precios de la provincia de Cuenca  en servicios de pocería. Como empresa de poceros llevamos más de 25 años en el sector ofreciendo los mejores precios con la mejor calidad. Si estas pendiente de realizar una obra no dudes en llamarnos y solicitranos presupuesto sin compromiso, estaremos encantados de ayudarte.
                   </p>
                   <div className="experiance">
-                    <h3>8</h3>
+                    <h3>25</h3>
                     <h4>
-                      Years
-                      <br /> Experience Working
+                      Años
+                      <br /> Experiencia Sector
                     </h4>
                   </div>
                 </div>
